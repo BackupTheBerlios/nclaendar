@@ -1,0 +1,58 @@
+
+[filenumbers]
+0=1
+1=1
+2=147
+3=60
+4=288
+5=193
+6=431
+7=125
+8=31
+9=256
+10=31
+11=256
+
+[filemarkers]
+0=
+1=
+2=
+3=
+4=
+5=
+6=
+7=
+8=
+9=
+10=
+11=
+
+[File View]
+filter.file.unmatch=*.so *.o *.a *.la
+filter.file.ignore.hidden=0
+filter.dir.ignore.hidden=0
+
+[executer]
+RunInTerminal=true
+
+[Project State]
+clean before build=false
+
+[filelist]
+0=/home/ben/Projects/nClaendar/src/prefDlg.cpp
+1=/home/ben/Projects/nClaendar/src/prefDlg.h
+2=/home/ben/Projects/nClaendar/src/hdCtrl.cpp
+3=/home/ben/Projects/nClaendar/src/hdCtrl.h
+4=/home/ben/Projects/nClaendar/src/tipi.h
+5=/home/ben/Projects/nClaendar/src/tipi.cpp
+6=/home/ben/Projects/nClaendar/src/ncal.cpp
+7=/home/ben/Projects/nClaendar/src/ncal.h
+8=/home/ben/Projects/ProvawxW/src/lappl.h
+9=/home/ben/Projects/ProvawxW/src/lappl.cpp
+
+[Project Tree]
+0=0
+1=0:0
+
+[File Tree]
+0=0

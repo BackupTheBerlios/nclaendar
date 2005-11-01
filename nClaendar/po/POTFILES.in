@@ -1,0 +1,21 @@
+# List of source files containing translatable strings.
+
+## Created by Anjuta - will be overwritten
+## If you don't want it to overwrite it,
+## 	Please disable it in the Anjuta project configuration
+
+# Source files
+src/ncal.h
+src/ncal.cpp
+src/tipi.cpp
+src/tipi.h
+src/profMan.cpp
+src/profMan.h
+src/smllDlgs.h
+src/smllDlgs.cpp
+src/hdCtrl.h
+src/hdCtrl.cpp
+src/prefDlg.h
+src/prefDlg.cpp
+
+

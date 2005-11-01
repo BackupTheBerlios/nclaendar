@@ -1,0 +1,12 @@
+	../src/ncal.h \
+	../src/ncal.cpp \
+	../src/tipi.cpp \
+	../src/tipi.h \
+	../src/profMan.cpp \
+	../src/profMan.h \
+	../src/smllDlgs.h \
+	../src/smllDlgs.cpp \
+	../src/hdCtrl.h \
+	../src/hdCtrl.cpp \
+	../src/prefDlg.h \
+	../src/prefDlg.cpp \
