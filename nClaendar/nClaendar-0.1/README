@@ -1,0 +1,36 @@
+README!
+
+ABOUT nClaendar:
+
+	This project was meant to be a light but powerful cross-platform Calendar. 
+It doesn't need any extra package made exception of wxWidgets. 
+No need for too many dependencies, No need for a powerful system, and No need 
+for a particular platform to work!!
+
+I worked "hard" for this project... i hope you'll be satified... 
+enjoy it!!
+
+HOWTO INSTALL:
+
+	I'll provide sufficent documentation on the website. But if it's not
+reachable for you now, i'll give you some hints. If you use this source package
+under *nix envinronment... please launch './autogen.sh -enable-stl' and then
+type make. you'll have the executable under ./src/ (nclaendar).
+Under Win32 systems i'll provide binaries on the website. Contact me if you want
+particular ones ;-)
+
+GPL NOTICE:
+
+	This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.
